@@ -1,0 +1,31 @@
+{
+  "item.ironexpansion.steel_nugget": "钢粒",
+  "item.ironexpansion.steel_ingot": "钢锭",
+
+  "block.ironexpansion.steel_block": "钢块",
+  "block.ironexpansion.steel_stair": "钢楼梯",
+  "block.ironexpansion.steel_slab": "钢台阶",
+  "block.ironexpansion.steel_button": "钢按钮",
+  "block.ironexpansion.steel_pressure_plate": "钢压力板",
+  "block.ironexpansion.steel_fence_gate": "钢栅栏门",
+  "block.ironexpansion.steel_fence": "钢栅栏",
+  "block.ironexpansion.steel_door": "钢门",
+  "block.ironexpansion.steel_trapdoor": "钢活板门",
+
+  "block.ironexpansion.iron_stair": "铁楼梯",
+  "block.ironexpansion.iron_slab": "铁台阶",
+  "block.ironexpansion.iron_fence_gate": "铁栅栏门",
+  "block.ironexpansion.iron_fence": "铁栅栏",
+  "block.ironexpansion.iron_button": "铁按钮",
+
+  "item.ironexpansion.steel_sword": "钢剑",
+  "item.ironexpansion.steel_pickaxe": "钢镐",
+  "item.ironexpansion.steel_shovel": "钢锹",
+  "item.ironexpansion.steel_axe": "钢斧",
+  "item.ironexpansion.steel_hoe": "钢锄",
+
+  "item.ironexpansion.steel_helmet": "钢头盔",
+  "item.ironexpansion.steel_chestplate": "钢胸甲",
+  "item.ironexpansion.steel_leggings": "钢护腿",
+  "item.ironexpansion.steel_boots": "钢靴子"
+}

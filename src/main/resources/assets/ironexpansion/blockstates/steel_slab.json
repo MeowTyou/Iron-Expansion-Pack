@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "ironexpansion:block/steel_slab"
+    },
+    "type=double": {
+      "model": "ironexpansion:block/steel_block"
+    },
+    "type=top": {
+      "model": "ironexpansion:block/steel_slab_top"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "X": {
+      "item": "ironexpansion:steel_ingot"
+    }
+  },
+  "pattern": [
+    "XX"
+  ],
+  "result": {
+    "item": "ironexpansion:steel_pressure_plate"
+  }
+}

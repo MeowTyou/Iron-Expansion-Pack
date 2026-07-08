@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "has_iron_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["minecraft:iron_ingot"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ironexpansion:iron_fence",
+      "ironexpansion:iron_fence_gate",
+      "ironexpansion:iron_stair",
+      "ironexpansion:iron_slab",
+      "ironexpansion:iron_button"
+    ]
+  }
+}

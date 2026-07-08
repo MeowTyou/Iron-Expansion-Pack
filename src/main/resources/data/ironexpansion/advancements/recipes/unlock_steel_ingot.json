@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "has_iron_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["ironexpansion:steel_ingot"]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "ironexpansion:steel_fence",
+      "ironexpansion:steel_fence_gate",
+      "ironexpansion:steel_stair",
+      "ironexpansion:steel_slab",
+      "ironexpansion:steel_block",
+      "ironexpansion:steel_button",
+      "ironexpansion:steel_door",
+      "ironexpansion:steel_ingot",
+      "ironexpansion:steel_nugget",
+      "ironexpansion:steel_pressure_plate",
+      "ironexpansion:steel_trapdoor",
+      "ironexpansion:steel_sword",
+      "ironexpansion:steel_axe",
+      "ironexpansion:steel_hoe",
+      "ironexpansion:steel_pickaxe",
+      "ironexpansion:steel_helmet",
+      "ironexpansion:steel_chestplate",
+      "ironexpansion:steel_leggings",
+      "ironexpansion:steel_boots"
+    ]
+  }
+}

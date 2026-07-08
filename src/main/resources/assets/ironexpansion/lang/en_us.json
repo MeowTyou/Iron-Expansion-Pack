@@ -1,0 +1,31 @@
+{
+  "item.ironexpansion.steel_nugget": "Steel Nugget",
+  "item.ironexpansion.steel_ingot": "Steel Ingot",
+
+  "block.ironexpansion.steel_block": "Steel Block",
+  "block.ironexpansion.steel_stair": "Steel Stair",
+  "block.ironexpansion.steel_slab": "Steel Slab",
+  "block.ironexpansion.steel_button": "Steel Button",
+  "block.ironexpansion.steel_pressure_plate": "Steel Pressure Plate",
+  "block.ironexpansion.steel_fence_gate": "Steel Fence Gate",
+  "block.ironexpansion.steel_fence": "Steel Fence",
+  "block.ironexpansion.steel_door": "Steel Door",
+  "block.ironexpansion.steel_trapdoor": "Steel Trapdoor",
+
+  "block.ironexpansion.iron_stair": "Iron Stair",
+  "block.ironexpansion.iron_slab": "Iron Slab",
+  "block.ironexpansion.iron_fence_gate": "Iron Fence Gate",
+  "block.ironexpansion.iron_fence": "Iron Fence",
+  "block.ironexpansion.iron_button": "Iron Button",
+
+  "item.ironexpansion.steel_sword": "Steel Sword",
+  "item.ironexpansion.steel_pickaxe": "Steel Pickaxe",
+  "item.ironexpansion.steel_shovel": "Steel Shovel",
+  "item.ironexpansion.steel_axe": "Steel Axe",
+  "item.ironexpansion.steel_hoe": "Steel Hoe",
+
+  "item.ironexpansion.steel_helmet": "Steel Helmet",
+  "item.ironexpansion.steel_chestplate": "Steel Chestplate",
+  "item.ironexpansion.steel_leggings": "Steel Leggings",
+  "item.ironexpansion.steel_boots": "Steel Boots"
+}
