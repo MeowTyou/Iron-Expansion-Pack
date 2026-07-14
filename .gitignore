@@ -23,3 +23,22 @@ run
 
 # Files from Forge MDK
 forge*changelog.txt
+
+# IDE 配置
+.vscode/
+.idea/
+*.iml
+
+# 运行数据
+run-data/
+logs/
+crash-reports/
+
+# 编译产物
+*.jar
+build/
+out/
+*.class
+
+# Gradle 缓存
+.gradle/
